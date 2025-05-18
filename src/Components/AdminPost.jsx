@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import axios from 'axios';
-import '../assets/style/Admin.css';
+import '../assets/Style/Admin.css';
 // import '../assets/style/main.css' // Import the CSS file for styling
 import Header from './AdminHeader';
 import OurPost from './OurPost';
